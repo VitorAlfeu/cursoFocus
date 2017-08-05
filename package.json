@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Projeto focus",
+  "main": "aula_1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VitorAlfeu/cursoFocus.git"
+  },
+  "author": "Vitor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VitorAlfeu/cursoFocus/issues"
+  },
+  "homepage": "https://github.com/VitorAlfeu/cursoFocus#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
